@@ -1,9 +1,10 @@
 {
   "posts": [
     {
+      "userId": 1,
       "id": 1,
-      "title": "hello"
-    }
+      "title": "Noticia numero 1 aquí",
+      "body": "Impactante noticia se persive en esta base de datos"    }
   ],
   "profile": {
     "name": "typicode"
